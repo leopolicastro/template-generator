@@ -1,6 +1,6 @@
 {
   "name": "@leopolicastro/create-project",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "description": "A CLI to bootstrap my new projects",
   "main": "src/index.js",
   "bin": "bin/create-project",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/leopolicastro/project-generator.git"
+    "url": "https://github.com/leopolicastro/template-generator.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
